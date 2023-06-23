@@ -1,6 +1,6 @@
 # Quiz-Game-Project
 
-Game Play Example: 
+GamePlay Example: 
 
 Q.1: The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;. (True/False)?: True
 That's wrong!
